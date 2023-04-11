@@ -22,6 +22,9 @@ It allows computers to automatically learn and improve from experience without b
 ## Model training
 In the preceding section, we talked about two key pieces of information: a model and data. In this section, we show you how those two pieces of information are used to create a trained model. This process is called model training.
 
- 
+Clustering: Clustering is an unsupervised learning task that helps to determine if there are any naturally occurring groupings in the data.
+
+Labeled Data
+Unlabled data
 
 
