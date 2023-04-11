@@ -17,7 +17,7 @@ It allows computers to automatically learn and improve from experience without b
 - A model training algorithm
 - A model inference algorithm
 
-<img src="https://github.com/vaibhavkapase1302/AWS-DeepRacer-ML/blob/main/Components%20of%20machine%20learning.png" alt="Image Description" height="auto">
+<img src="https://github.com/vaibhavkapase1302/AWS-DeepRacer-ML/blob/main/Components%20of%20machine%20learning.png" alt="Image Description" height=42>
 
  
 
