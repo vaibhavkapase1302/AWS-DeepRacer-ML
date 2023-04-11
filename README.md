@@ -25,6 +25,7 @@ In the preceding section, we talked about two key pieces of information: a model
 Clustering: Clustering is an unsupervised learning task that helps to determine if there are any naturally occurring groupings in the data.
 
 Labeled Data
+
 Unlabled data
 
 
