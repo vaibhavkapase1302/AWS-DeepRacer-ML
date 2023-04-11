@@ -10,6 +10,6 @@ Machine learning (ML) is a modern software development technique, and a type of 
 
 It allows computers to automatically learn and improve from experience without being explicitly programmed to do so.
 
-<img src="https://github.com/vaibhavkapase1302/AWS-DeepRacer-ML/blob/main/ML%20Understand.png" alt="Image Description">
+<img src="https://github.com/vaibhavkapase1302/AWS-DeepRacer-ML/blob/main/ML%20Understand.png" alt="Image Description" width = 50% height=50%>
 
 
