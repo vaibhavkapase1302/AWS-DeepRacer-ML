@@ -12,4 +12,10 @@ It allows computers to automatically learn and improve from experience without b
 
 <img src="https://github.com/vaibhavkapase1302/AWS-DeepRacer-ML/blob/main/ML%20Understand.png" alt="Image Description" width = 50% height=50%>
 
+## Nearly all tasks solved with machine learning involve three primary components:
+- A machine learning model
+- A model training algorithm
+- A model inference algorithm
+ 
+
 
