@@ -28,7 +28,7 @@ Labeled Data
 
 Unlabled data
 
-<img src="https://github.com/vaibhavkapase1302/AWS-DeepRacer-ML/blob/main/Components%20of%20machine%20learning.png" alt="Example Image">
+<img src="https://github.com/vaibhavkapase1302/AWS-DeepRacer-ML/blob/main/Define%20the%20problem.png" alt="Example Image">
 
 
 
