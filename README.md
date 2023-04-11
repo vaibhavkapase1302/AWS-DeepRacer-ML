@@ -19,6 +19,9 @@ It allows computers to automatically learn and improve from experience without b
 
 <img src="https://github.com/vaibhavkapase1302/AWS-DeepRacer-ML/blob/main/Components%20of%20machine%20learning.png" alt="Image Description" height=200>
 
+## Model training
+In the preceding section, we talked about two key pieces of information: a model and data. In this section, we show you how those two pieces of information are used to create a trained model. This process is called model training.
+
  
 
 
