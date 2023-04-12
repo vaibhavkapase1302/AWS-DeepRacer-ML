@@ -39,10 +39,11 @@ It is an unsupervised learning task that helps to determine if there are any nat
 <img src="https://github.com/vaibhavkapase1302/AWS-DeepRacer-ML/blob/main/The%20Four%20Aspects%20of%20Working%20with%20Data.png" width="700" height="150" alt="Example Image">
 To build a good dataset, there are four key aspects to be considered when working with your data. First, you need to collect the data. Second, you should inspect your data to check for outliers, missing or incomplete values, and to see if any kind of data reformatting is required. Third, you should use summary statistics to understand the scope, scale, and shape of the dataset. Finally, you should use data visualizations to check for outliers, and to see trends in your data.
 
-Impute: 
+
+- Impute: 
 Impute is a common term referring to different statistical tools that can be used to calculate missing values from your dataset.
 
-Outliers:
+- Outliers:
 Outliers  are data points that are significantly different from other date in the same sample.
 
 
