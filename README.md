@@ -84,5 +84,16 @@ While this type of task is beyond the scope of this lesson, we wanted to show yo
   A mathematical term for a surface that contains more than two planes.
 - Plane: 
   A mathematical term for a flat surface (like a piece of paper) on which two points can be joined by drawing a straight line.
-
+## Here's a list of common metrics:
+- Accuracy
+- Confusion matrix
+- F1 score
+- False positive rate
+- False negative rate
+- Log loss
+- Negative predictive value
+- Precession
+- Rec all
+- ROC Curve
+- Specificity
    
