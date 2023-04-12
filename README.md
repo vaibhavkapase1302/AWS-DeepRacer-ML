@@ -123,9 +123,9 @@ In reinforcement learning, an agent interacts with an environment with an object
  * Proximal Policy Optimization (PPO)
  * Soft Actor Critic (SAC)
 4. Customize reward function
-  - Follow the centerline
-  - Stay within borders
-  - Prevent zig-zag
+ - Follow the centerline
+ - Stay within borders
+ - Prevent zig-zag
 5. Choose duration
 6. Training
 
