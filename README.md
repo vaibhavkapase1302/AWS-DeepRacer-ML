@@ -114,7 +114,7 @@ In reinforcement learning, an agent interacts with an environment with an object
 - Action: An action is a move made by the agent in the current state. 
 - Reward: The reward is the **score** given as feedback to the agent when it takes an action in a given state.
 - 
-<img src="https://github.com/vaibhavkapase1302/AWS-DeepRacer-ML/blob/main/DeepRacer%20concept%20.png" width="200" height="300" alt="Example Image">
+<img src="https://github.com/vaibhavkapase1302/AWS-DeepRacer-ML/blob/main/DeepRacer%20concept%20.png" width="300" height="300" alt="Example Image">
 
 ## Training an AWS DeepRacer model
 1. Name your model
