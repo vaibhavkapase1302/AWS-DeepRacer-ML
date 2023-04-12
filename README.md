@@ -129,3 +129,5 @@ In reinforcement learning, an agent interacts with an environment with an object
 5. Choose duration
 6. Training
 
+## Reward Function:
+*Rward function is simply peace of code which uses the input parameters to do some calculationsand then output the number which is reward.
