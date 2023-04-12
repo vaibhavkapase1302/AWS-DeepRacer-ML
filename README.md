@@ -133,4 +133,4 @@ In reinforcement learning, an agent interacts with an environment with an object
 <img src="https://github.com/vaibhavkapase1302/AWS-DeepRacer-ML/blob/main/Reward%20Function.png" width="500" height="300" alt="Example Image">
 
 * Reward function is simply peace of code which uses the input parameters to do some calculation and then output the number which is reward.
-* 
+* It is return in python as a standard function
