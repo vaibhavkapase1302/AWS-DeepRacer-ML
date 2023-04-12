@@ -103,4 +103,4 @@ AWS DeepRacer offers two training algorithms:
 - Soft Actor Critic (SAC)
 
 ## AWS DeepRacer
-<a href="https://us-east-1.console.aws.amazon.com/deepracer/home?region=us-east-1#getStarted">Link Text</a>
+<a href="https://us-east-1.console.aws.amazon.com/deepracer/home?region=us-east-1#getStarted">AWS DeepRacer Documantation link</a>
