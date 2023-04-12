@@ -31,8 +31,9 @@ Unlabled data
 ## Defining a problem in Machine Learning
 <img src="https://github.com/vaibhavkapase1302/AWS-DeepRacer-ML/blob/main/Define%20the%20problem.png" alt="Example Image">
 
-### Clusteringg: It is an unsupervised learning task that helps to determine if there are any naturally occurring groupings in the data.
+### Clusteringg: 
+It is an unsupervised learning task that helps to determine if there are any naturally occurring groupings in the data.
 
-### The Four Aspects of Working with Data
+## The Four Aspects of Working with Data
 
 <img src="https://github.com/vaibhavkapase1302/AWS-DeepRacer-ML/blob/main/The%20Four%20Aspects%20of%20Working%20with%20Data.png" width="700" height="150" alt="Example Image">
