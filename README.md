@@ -115,3 +115,15 @@ In reinforcement learning, an agent interacts with an environment with an object
 - Reward: The reward is the **score** given as feedback to the agent when it takes an action in a given state.
 
 ## Training an AWS DeepRacer model
+1. Name your model
+2. Choose track
+3. Choose algorithm type: 
+  - Proximal Policy Optimization (PPO)
+  - Soft Actor Critic (SAC)
+4. Customize reward function
+  - Follow the centerline
+  - Stay within borders
+  - Prevent zig-zag
+5. Choose duration
+6. Training
+
