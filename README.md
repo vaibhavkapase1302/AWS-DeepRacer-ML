@@ -102,5 +102,14 @@ AWS DeepRacer offers two training algorithms:
 - Proximal Policy Optimization (PPO)
 - Soft Actor Critic (SAC)
 
+In reinforcement learning, an agent interacts with an environment with an objective to maximize its total reward.
+
 ## AWS DeepRacer
 <a href="https://us-east-1.console.aws.amazon.com/deepracer/home?region=us-east-1#getStarted">AWS DeepRacer Documantation link</a>
+
+##How does AWS DeepRacer learn to drive by itself?
+- Agent: The agent simulates the AWS DeepRacer vehicle in the simulation for training. 
+- Environment: The environment contains a track that defines where the agent can go and what state it can be in.
+- State: A state represents a snapshot of the environment the agent is in at a point in time.
+- Action: An action is a move made by the agent in the current state. 
+- Reward: The reward is the **score** given as feedback to the agent when it takes an action in a given state.
