@@ -120,8 +120,8 @@ In reinforcement learning, an agent interacts with an environment with an object
 1. Name your model
 2. Choose track
 3. Choose algorithm type: 
-  - Proximal Policy Optimization (PPO)
-  - Soft Actor Critic (SAC)
+* Proximal Policy Optimization (PPO)
+* Soft Actor Critic (SAC)
 4. Customize reward function
   - Follow the centerline
   - Stay within borders
