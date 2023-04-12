@@ -4,7 +4,7 @@ What is machine learning?
 Common techniques in machine learning:
 1) Supervised learning: Labeled Data
 2) Unsupervised learning: Unlabeled Data
-3) Reinforcement learning
+3) Reinforcement learning: Learns from experience and experimentation
 
 Machine learning (ML) is a modern software development technique, and a type of artificial intelligence (AI), that enables computers to solve problems by using examples of real-world data. 
 
