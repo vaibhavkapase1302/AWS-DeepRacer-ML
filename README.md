@@ -75,3 +75,13 @@ Using machine learning to isolate micro-genres of books by analyzing the wording
 ### Deep neural network
 While this type of task is beyond the scope of this lesson, we wanted to show you the power and versatility of modern machine learning. You will see how it can be used to analyze raw images from lab video footage from security cameras, trying to detect chemical spills.
 
+## Terminology
+- Regression: 
+  A common task in supervised machine learning used to understand the relationship between multiple variables from a dataset.
+- Continuous:
+  Floating-point values with an infinite range of possible values. This is the opposite of categorical or discrete values, which take on a limited number of possible values.
+- Hyperplane: 
+  A mathematical term for a surface that contains more than two planes.
+- Plane: 
+  A mathematical term for a flat surface (like a piece of paper) on which two points can be joined by drawing a straight line.
+
