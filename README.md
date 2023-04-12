@@ -28,6 +28,7 @@ Labeled Data
 
 Unlabled data
 
+## Defining a problem in Machine Learning
 <img src="https://github.com/vaibhavkapase1302/AWS-DeepRacer-ML/blob/main/Define%20the%20problem.png" alt="Example Image">
 
 
