@@ -97,3 +97,9 @@ While this type of task is beyond the scope of this lesson, we wanted to show yo
 - ROC Curve
 - Specificity
    
+## Introduction to Reinforcement learning
+AWS DeepRacer offers two training algorithms:
+- Proximal Policy Optimization (PPO)
+- Soft Actor Critic (SAC)
+
+## AWS DeepRacer
