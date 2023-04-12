@@ -136,7 +136,7 @@ In reinforcement learning, an agent interacts with an environment with an object
 * Reward function is simply peace of code which uses the input parameters to do some calculation and then output the number which is reward.
 * It is return in python as a standard function
 
-## Follow the centerline
+### Follow the centerline
 Code given by AWS 
 ```py
   def reward_function(params):
@@ -164,7 +164,7 @@ Code given by AWS
     return float(reward)
   ```
 
-  ## Stay within borders
+  ### Stay within borders
 ```py
   def reward_function(params):
     # Example of rewarding the agent to stay inside the two borders of the track
@@ -186,7 +186,7 @@ Code given by AWS
     return float(reward)
   ```
 
-## Prevent zig-zag
+### Prevent zig-zag
 ```py
   def reward_function(params):
     # Example of penalize steering, which helps mitigate zig-zag behaviors
