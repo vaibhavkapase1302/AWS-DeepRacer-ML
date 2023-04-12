@@ -35,4 +35,4 @@ Unlabled data
 
 ### The Four Aspects of Working with Data
 
-<img src="https://github.com/vaibhavkapase1302/AWS-DeepRacer-ML/blob/main/The%20Four%20Aspects%20of%20Working%20with%20Data.png" width="800" height="100" alt="Example Image">
+<img src="https://github.com/vaibhavkapase1302/AWS-DeepRacer-ML/blob/main/The%20Four%20Aspects%20of%20Working%20with%20Data.png" width="700" height="150" alt="Example Image">
