@@ -144,7 +144,7 @@ In reinforcement learning, an agent interacts with an environment with an object
 #### What is the purpose of a reward function?
 * The reward function encourages the vehicle to make moves along the track quickly to reach its destination.
 
-Choose and modify one of the sample reward functions.
+#### Choose and modify one of the sample reward functions.
 1. Follow the centerline
 2. Stay within borders
 3. Prevent zig-zag  
