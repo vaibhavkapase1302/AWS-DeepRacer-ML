@@ -136,14 +136,14 @@ In reinforcement learning, an agent interacts with an environment with an object
 * Reward function is simply peace of code which uses the input parameters to do some calculation and then output the number which is reward.
 * It is return in python as a standard function
 
-What is a reward function?
-* The reward function is Python code that describes immediate feedback in the form of a reward or penalty to move from a given position on the track to a new position.
-
-What is the purpose of a reward function?
-* The reward function encourages the vehicle to make moves along the track quickly to reach its destination.
-
 
 ### Follow the centerline
+  #### What is a reward function?
+* The reward function is Python code that describes immediate feedback in the form of a reward or penalty to move from a given position on the track to a new position.
+
+#### What is the purpose of a reward function?
+* The reward function encourages the vehicle to make moves along the track quickly to reach its destination.
+
 Code given by AWS 
 ```py
   def reward_function(params):
