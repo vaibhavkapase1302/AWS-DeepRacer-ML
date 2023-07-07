@@ -1,6 +1,6 @@
 # AWS-DeepRacer-ML
 
-## <a href="https://student.deepracer.com/leaderboard/arn%3Aaws%3Adeepracer%3A%3A%3Aleaderboard%2F0eccc33c-aba4-400e-859d-e1626950602f">DeepRacer Leadership Board April Student Qualifier 2023</a
+## <a href="https://student.deepracer.com/leaderboard/arn%3Aaws%3Adeepracer%3A%3A%3Aleaderboard%2F0eccc33c-aba4-400e-859d-e1626950602f">DeepRacer Leadership Board April Student Qualifier 2023
 
 What is machine learning?
 Common techniques in machine learning:
@@ -15,7 +15,7 @@ It allows computers to automatically learn and improve from experience without b
 <img src="https://github.com/vaibhavkapase1302/AWS-DeepRacer-ML/blob/main/ML%20Understand.png" alt="Image Description" width = 50% height=50%>
 
 ## Nearly all tasks solved with machine learning involve three primary components:
-- A machine learning model
+- A machine-learning model
 - A model training algorithm
 - A model inference algorithm
 
